@@ -3,7 +3,7 @@
 ## PowerShell Basics
 [Monad Manifesto](https://www.jsnover.com/Docs/MonadManifesto.pdf) by [Jeffrey Snover](https://twitter.com/jsnover)  
 [Geschiedenis van PowerShell (Wikipedia)](https://en.wikipedia.org/wiki/PowerShell)  
-[Approved verbs for PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/scripting/developer/cmdlet/ approved-verbs-for-windows-powershell-commands?view=powershell-7)  
+[Approved verbs for PowerShell cmdlets](https://docs.microsoft.com/en-us/powershell/scripting/developer/cmdletapproved-verbs-for-windows-powershell-commands?view=powershell-7)  
 [PowerShell Objects, a tutorial](https://www.computerworld.com/article/2954261/understanding-and-using-objects-in-powershell.html)  
 [How to write a PowerShell script module](https://docs.microsoft.com/en-us/powershell/scripting/developer/module/how-to-write-a-powershell-script-module?view=powershell-7)  
 [Best practices for using aliases in PowerShell scripts](https://devblogs.microsoft.com/scripting/best-practice-for-using-aliases-in-powershell-scripts/)  
