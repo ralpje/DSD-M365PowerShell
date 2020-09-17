@@ -23,5 +23,21 @@
 [Dutch DevOPS and GitHub community](https://twitter.com/ddog_nl)  
 
 ## M365 Business Voice
+[What is MS365 Business Voice](https://docs.microsoft.com/en-us/microsoftteams/business-voice/whats-business-voice)  
+[Country and region availability for Business Voice](https://docs.microsoft.com/en-us/microsoftteams/business-voice/country-region-availability)  
+[M365 Business Voice service description](https://docs.microsoft.com/en-us/office365/servicedescriptions/microsoft-365-business-voice-service-description)  
+[Here's what you get with Phone System](https://docs.microsoft.com/en-us/microsoftteams/here-s-what-you-get-with-phone-system)  
+[Phone System direct routing](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-landing-page)  
+[List of SBC's certified for direct routing](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-border-controllers)  
+[Configure an SBC for multiple tenants](https://docs.microsoft.com/en-us/microsoftteams/direct-routing-sbc-multiple-tenants)  
+[Teams Devices](https://aka.ms/teamsdevices)  
+[Prepare your organisation's network for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/prepare-network)  
+[Use the Network Planner for Microsoft Teams](https://docs.microsoft.com/en-us/microsoftteams/network-planner)  
+[Manage Skype for Business Online with PowerShell](https://docs.microsoft.com/en-us/microsoft-365/enterprise/manage-skype-for-business-online-with-microsoft-365-powershell?view=o365-worldwide)  
+[RegEXR](https://regexr.com/)  
+[UCDialPlans.com](https://www.ucdialplans.com/)  
+
+
+
 
 ## Generieke links
