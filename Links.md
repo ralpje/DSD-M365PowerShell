@@ -40,4 +40,5 @@
 
 
 
-## Generieke links
+## Generieke links  
+[Registreren voor MS Ignite](https://register.ignite.microsoft.com)  
